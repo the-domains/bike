@@ -4,7 +4,7 @@
         <description><![CDATA[bike]]></description>
         <link>https://thegrid.ai/bike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 15:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 13:45:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bike/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>http://cyclingtips.com/2016/03/bikes-of-the-bunch-jaegher-interceptor/</link>
             <guid isPermaLink="false">1015be5a-54e7-48fd-9486-3977d5b4f16e</guid>
             <pubDate>Fri, 25 Mar 2016 15:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Record number of cyclists commute into Dublin]]></title>
+            <description><![CDATA[<article><h1>Record number of cyclists commute into Dublin</h1><p>The number of commuters cycling into Dublin city during the morning peak has reached its highest level since records began nearly 20 years ago. Almost 11,000 people cycle into the city each day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/034a57b60bc6e425d18a4cf29350d31dd0a345e8.jpg"></article>]]></description>
+            <link>http://www.irishtimes.com/news/environment/record-number-of-cyclists-commute-into-dublin-1.2656933#.V0K5GZcNm4g.facebook</link>
+            <guid isPermaLink="false">9b95576f-a5e2-43a8-a30c-54a29c9884b7</guid>
+            <pubDate>Mon, 23 May 2016 13:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea43f19e-7985-41b2-a193-e7e0f69bba6c.jpg">]]></description>
+            <link>https://thegrid.ai/bike/c9a57522-4916-4494-9b0b-eeeb33a471c7/index.html</link>
+            <guid isPermaLink="false">c9a57522-4916-4494-9b0b-eeeb33a471c7</guid>
+            <pubDate>Mon, 23 May 2016 13:02:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
